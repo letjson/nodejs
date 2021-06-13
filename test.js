@@ -1,6 +1,5 @@
 import path from 'path';
 import fs from 'fs';
-import FileType from '.';
 
-const supported = require('./let_json');
+const let_json = require('./let_json');
 // TODO
